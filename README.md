@@ -1,8 +1,5 @@
 # FAST_LIO2_Noted
-
-## 中文注释说明
-
-本项目是基于[FAST_LIO_SLAM](https://github.com/GDUT-Kyle/FAST_LIO_SLAM)项目扩展来的，主要讲述了Fast-LIO2主程序代码、esikf更新代码和ikd-tree算法，因此基于自己的理解和思考，在代码里做了相关的中文注释。注释部分难免有误，欢迎大家批评指正。
+기존의 중국어 버젼을, 가지고 gpt와 같이 해석한 결과를 정리하려고 합니다. 대부분의 소스는 source 해온 코드에서 해설한 내용을 한국어로 바꾼 것 밖에 없습니다. 
 
 ## News
 
